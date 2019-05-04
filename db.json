@@ -1,9 +1,7 @@
 [
   {
-    "users": {
-      "id": 1,
-      "name": "Seweje Damilola",
-      "email": "dummy@email.com"
-    }
+    "id": 1,
+    "name": "Seweje Damilola",
+    "email": "dummy@email.com"
   }
 ]
